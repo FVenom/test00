@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 we're testing GIT!!!!!!!111!!eleven
+=======
+we're testing GIT!!!!!!!111!!eleven!2
+>>>>>>> second_branch
