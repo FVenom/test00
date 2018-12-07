@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 we're testing GIT!!!!!!!111!!eleven
 =======
 we're testing GIT!!!!!!!111!!eleven!2
 >>>>>>> second_branch
-=======
-we're testing GIT!!!!!!!111!!eleven!
->>>>>>> parent of f68a940... WiP: an error is implemented!
